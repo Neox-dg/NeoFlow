@@ -1,8 +1,6 @@
 # NeoFlow
 **Namizna aplikacija za preprečevanje izgorelosti v IT okolju**
 
-Progress: ███████░░░ 70%
-
 NeoFlow je osebni razporejevalnik nalog, ki upošteva **miselno obremenitev** in preprečuje preobremenitev z avtomatskim vstavljanjem pavz ter inteligentnim razporejanjem nalog glede na tvojo dnevno kapaciteto.
 
 ## Problem
